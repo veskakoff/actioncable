@@ -48,7 +48,7 @@ PATH
     actioncable (0.0.3)
       actionpack (>= 4.2.0)
       activesupport (>= 4.2.0)
-      celluloid (~> 0.16.0)
+      celluloid (~> 0.17.3)
       coffee-rails
       em-hiredis (~> 0.3.0)
       faye-websocket (~> 0.10.0)
